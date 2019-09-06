@@ -1,0 +1,11 @@
+C:\Anoop\Projects\Kitchen\DesignPatterns\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp2.2\BridgeDesignPattern.deps.json
+C:\Anoop\Projects\Kitchen\DesignPatterns\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp2.2\BridgeDesignPattern.runtimeconfig.json
+C:\Anoop\Projects\Kitchen\DesignPatterns\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp2.2\BridgeDesignPattern.runtimeconfig.dev.json
+C:\Anoop\Projects\Kitchen\DesignPatterns\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp2.2\BridgeDesignPattern.dll
+C:\Anoop\Projects\Kitchen\DesignPatterns\BridgeDesignPattern\BridgeDesignPattern\bin\Debug\netcoreapp2.2\BridgeDesignPattern.pdb
+C:\Anoop\Projects\Kitchen\DesignPatterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.2\BridgeDesignPattern.csprojAssemblyReference.cache
+C:\Anoop\Projects\Kitchen\DesignPatterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.2\BridgeDesignPattern.csproj.CoreCompileInputs.cache
+C:\Anoop\Projects\Kitchen\DesignPatterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.2\BridgeDesignPattern.AssemblyInfoInputs.cache
+C:\Anoop\Projects\Kitchen\DesignPatterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.2\BridgeDesignPattern.AssemblyInfo.cs
+C:\Anoop\Projects\Kitchen\DesignPatterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.2\BridgeDesignPattern.dll
+C:\Anoop\Projects\Kitchen\DesignPatterns\BridgeDesignPattern\BridgeDesignPattern\obj\Debug\netcoreapp2.2\BridgeDesignPattern.pdb
